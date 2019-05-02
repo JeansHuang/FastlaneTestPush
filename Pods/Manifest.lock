@@ -1,0 +1,16 @@
+PODS:
+  - Fuzi (3.0.0)
+
+DEPENDENCIES:
+  - Fuzi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Fuzi
+
+SPEC CHECKSUMS:
+  Fuzi: a758e57fab9fbec6fd218ea7f2e00aa79325a93a
+
+PODFILE CHECKSUM: 6bcd0a382947dc2e2b710ac4c88a2478da4992de
+
+COCOAPODS: 1.6.0.beta.2
